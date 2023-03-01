@@ -81,7 +81,7 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 1.5
+  m_Height: 1.8
   m_Radius: 0.4
   m_SlopeLimit: 45
   m_StepOffset: 0.3
@@ -215,6 +215,7 @@ MonoBehaviour:
   CharacterName: Player
   HitPoints: 1
   WalkSpeed: 4
+  RotationSpeed: 180
   RunSpeed: 8
   IsAlive: 1
   CanJump: 1

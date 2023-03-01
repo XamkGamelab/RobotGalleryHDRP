@@ -8,6 +8,7 @@ public class CharacterBase : MonoBehaviour {
     public int HitPoints;
     [Header("Basic Movement")]
     public float WalkSpeed = 2.5f;
+    public float RotationSpeed = 180f;
     public float RunSpeed = 6f;
 
     [HideInInspector]
@@ -20,11 +21,4 @@ public class CharacterBase : MonoBehaviour {
     }
     
     protected bool _running;
-
-    protected CharacterController UnityCharacterController;
-
-    public virtual void FiringHit(Ray _ray, Collider _colliderHit)
-    {
-        Debug.Log("Firing hits enemy COLLIDER!");
-    }
 }
