@@ -1,0 +1,31 @@
+FREE FROM UNITY ASSET STORE
+
+* HDRP Furniture Pack by Tridify: https://assetstore.unity.com/packages/3d/props/furniture/hdrp-furniture-pack-153946
+* Spotlight and structure by SpaceZeta: https://assetstore.unity.com/packages/3d/props/interior/spotlight-and-structure-141453
+* DoTween
+* UniRx
+
+TEXTURES
+
+- hdri-haven.com - 
+CC0
+
+* HDRI texture: solitude_interior_8k
+
+- textures.com -
+Yes, it's allowed to use our materials to create your own free or commercial video game for PC, for consoles, or mobile devices. This is also allowed for materials you have downloaded with a Free account.
+
+* StainlessSteelBrushed
+* ScifiFloor
+* Marble_TilesDiamond
+
+- freepbr.com -
+Yes. These PBR texture map sets are free to use in your games / 3d with no cost involved. It’s all free. I only ask that you don’t redistribute these PBR file sets on other sites, file sharing sites, email, and so on. Let’s keep the source files on freepbr.com only folks.
+
+I’ve started asking for a  really small fee of $10 which allows you to use any and all of the PBR textures on the site commercially.
+
+* WornShinyMetal
+* FiberWall
+* OldPaintedVent
+
+Others: CC0
