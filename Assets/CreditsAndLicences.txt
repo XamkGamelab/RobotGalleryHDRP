@@ -1,3 +1,4 @@
+
 FREE FROM UNITY ASSET STORE
 
 * HDRP Furniture Pack by Tridify: https://assetstore.unity.com/packages/3d/props/furniture/hdrp-furniture-pack-153946
@@ -7,7 +8,7 @@ FREE FROM UNITY ASSET STORE
 
 TEXTURES
 
-- hdri-haven.com - 
+- polyhaven.com - 
 CC0
 
 * HDRI texture: solitude_interior_8k
@@ -28,4 +29,9 @@ I’ve started asking for a  really small fee of $10 which allows you to use any
 * FiberWall
 * OldPaintedVent
 
-Others: CC0
+- freewayml.com -
+You'll have full commercial rights to the image, and Freeway ML will not share the image publicly without your consent.
+
+* All "paintings" in gallery
+
+Other models (android, lamps, paintings, door, window) and related textures: WTFPL – Do What the Fuck You Want to Public License
